@@ -1,0 +1,1 @@
+reject http (msg:"Bad Word Detected"; http_uri; content:"ultrasurf",fast_pattern,nocase; sid:66666;)
