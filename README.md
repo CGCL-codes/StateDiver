@@ -3,6 +3,10 @@ StateDiver is a tool that detects TCP-based bypassing strategies in DPI systems 
 
 The framework is a customized fork to Geneva - different strategy seed pool organization, better state-discrepancy feedback, and faster in testing DPIs locally. It helps to identify TCP-related evasion strategies better.
 
+[ACM Artifact Badges](https://www.acm.org/publications/policies/artifact-review-and-badging-current) awarded: **Reuseable**.
+
+<img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_evaluated_reusable_v1_1.png" width="150" height="150">
+
 
 ## Source
 
