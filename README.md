@@ -1,5 +1,5 @@
 # StateDiver
-StateDiver is a tool that detects TCP-based bypassing strategies in DPI systems by utilizing the state discrepancy to guide the fuzzing process.  StateDiver can be used to uncover DPI elusion strategies in various open-source DPI systems (e.g., Snort, Snort++, and Suricata).
+StateDiver is a tool to detect TCP-based bypassing strategies in DPI systems. It utilizes state-discrepancy to guide the fuzzing process.  StateDiver can be used to uncover DPI elusion strategies in various open-source DPI systems (e.g., Snort, Snort++, and Suricata).
 
 The framework is a customized fork to Geneva - different strategy seed pool organization, better state-discrepancy feedback, and faster in testing DPIs locally. It helps to identify TCP-related evasion strategies better.
 
